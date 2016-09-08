@@ -1,4 +1,4 @@
-/**
+/**This is a demo app deciding what to wear.
  * 
  */
 
@@ -12,7 +12,11 @@ public class MainApp {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Get input from user
+		
+		//Set condition variables based on input
+		
+		//Use if statement to decide what to wear
 
 	}
 
